@@ -1,0 +1,13 @@
+<mxGraphModel>
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    <object label="<%= include('../../common/label.html') %>" Description="" Kind="Software System" Name="Software System" placeholders="1" id="2">
+      <mxCell style="<%- jsonToStyle(include('../../common/style.json')) %>;align=left;verticalAlign=top;spacingLeft=14;absoluteArcSize=1;rounded=1;fixDash=1;container=1;dropTarget=1;collapsible=0;recursiveResize=0;metaEdit=0;treeFolding=0;allowArrows=1;connectable=0;autosize=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxGeometry width="160" height="120" as="geometry">
+          <mxRectangle x="270" y="790" width="150" height="60" as="alternateBounds"/>
+        </mxGeometry>
+      </mxCell>
+    </object>
+  </root>
+</mxGraphModel>

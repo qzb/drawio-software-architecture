@@ -1,0 +1,34 @@
+<shape h="120" w="160" aspect="fixed" strokewidth="inherit">
+  <connections>
+    <constraint x="0.00" y="1" perimeter="0"/>
+    <constraint x="0.25" y="1" perimeter="0"/>
+    <constraint x="0.50" y="1" perimeter="0"/>
+    <constraint x="0.75" y="1" perimeter="0"/>
+    <constraint x="1.00" y="1" perimeter="0"/>
+    <constraint x="0" y="0.75" perimeter="0"/>
+    <constraint x="1" y="0.75" perimeter="0"/>
+  </connections>
+  <background>
+    <path>
+      <move x="0" y="40" />
+      <quad x1="0" y1="0" x2="40" y2="0" />
+      <line x="120" y="0" />
+      <quad x1="160" y1="0" x2="160" y2="40" />
+      <line x="160" y="108" />
+      <quad x1="160" y1="120" x2="148" y2="120" />
+      <line x="12" y="120" />
+      <quad x1="0" y1="120" x2="0" y2="108" />
+      <close />
+    </path>
+  </background>
+  <foreground>
+    <fillstroke />
+    <linecap cap="round" />
+    <strokewidth width="60" />
+    <path>
+      <move x="80" y="-10" />
+      <line x="80" y="-10" />
+    </path>
+    <stroke />
+  </foreground>
+</shape>

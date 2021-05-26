@@ -1,0 +1,26 @@
+<shape name="Frontend App" h="120" w="160" aspect="fixed" strokewidth="inherit">
+  <%- include('../../common/connections.xml') %>
+  <background>
+    <path>
+      <move x="150" y="0" />
+      <arc x="150" y="120" rx="0.12" ry="1.0" large-arc-flag="0" sweep-flag="1" x-axis-rotation="0" />
+      <line x="10" y="120" />
+      <arc x="10" y="0" rx="0.12" ry="1.0" large-arc-flag="0" sweep-flag="1" x-axis-rotation="0" />
+      <close />
+    </path>
+  </background>
+  <foreground>
+    <fillstroke />
+    <strokewidth width="4" />
+    <ellipse y="1" x="2" w="16" h="118" />
+    <stroke />
+    <ellipse y="4" x="4" w="12" h="114" />
+    <stroke />
+    <ellipse y="6" x="6" w="8" h="110" />
+    <stroke />
+    <ellipse y="8" x="8" w="4" h="106" />
+    <stroke />
+    <ellipse y="10" x="10" w="2" h="104" />
+    <stroke />
+  </foreground>
+</shape>

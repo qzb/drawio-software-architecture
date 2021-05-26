@@ -1,0 +1,12 @@
+<mxGraphModel>
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    <mxCell id="2" value="" style="endArrow=classic;endFill=1;endSize=12;html=1;dashed=1;strokeWidth=2;" edge="1" parent="1">
+      <mxGeometry width="160" relative="1" as="geometry">
+        <mxPoint y="120" as="sourcePoint"/>
+        <mxPoint x="160" as="targetPoint"/>
+      </mxGeometry>
+    </mxCell>
+  </root>
+</mxGraphModel>

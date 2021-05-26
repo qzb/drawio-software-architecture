@@ -1,0 +1,76 @@
+<mxlibrary>
+[
+  {
+    "xml": "<%- deflate(include('elements/person/element.xml')) %>",
+    "w": 160,
+    "h": 120,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "<%- deflate(include('elements/application/element.xml')) %>",
+    "w": 160,
+    "h": 120,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "<%- deflate(include('elements/applications/element.xml')) %>",
+    "w": 160,
+    "h": 120,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "<%- deflate(include('elements/frontend/element.xml')) %>",
+    "w": 160,
+    "h": 120,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "<%- deflate(include('elements/frontends/element.xml')) %>",
+    "w": 160,
+    "h": 120,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "<%- deflate(include('elements/worker/element.xml')) %>",
+    "w": 160,
+    "h": 120,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "<%- deflate(include('elements/workers/element.xml')) %>",
+    "w": 160,
+    "h": 120,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "<%- deflate(include('elements/database/element.xml')) %>",
+    "w": 160,
+    "h": 120,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "<%- deflate(include('elements/message-broker/element.xml')) %>",
+    "w": 160,
+    "h": 120,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "<%- deflate(include('elements/software-system/element.xml')) %>",
+    "w": 160,
+    "h": 120,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "<%- deflate(include('elements/software-system-container/element.xml')) %>",
+    "w": 160,
+    "h": 120,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "<%- deflate(include('elements/relation/element.xml')) %>",
+    "w": 160,
+    "h": 120,
+    "aspect": "fixed"
+  }
+]
+</mxlibrary>

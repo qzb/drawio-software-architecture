@@ -1,0 +1,11 @@
+<mxGraphModel>
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    <object label="<%= include('../../common/label.html') %>" placeholders="1" Description="" Name="Workers" Kind="Many Workers" id="2">
+      <mxCell style="shape=stencil(<%- deflate(include('shape.xml')) %>);<%- jsonToStyle(include('../../common/style.json')) %>;spacingRight=14;spacingBottom=14;" vertex="1" parent="1">
+        <mxGeometry width="160" height="120" as="geometry"/>
+      </mxCell>
+    </object>
+  </root>
+</mxGraphModel>

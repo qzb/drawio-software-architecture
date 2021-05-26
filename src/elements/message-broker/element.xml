@@ -1,0 +1,11 @@
+<mxGraphModel>
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    <object label="<%= include('../../common/label.html') %>" placeholders="1" Description="" Name="Queue" Kind="Message Broker" id="2">
+      <mxCell style="shape=stencil(zZXBboMwDIafJkcqCAxxrdj6HhkYGjVNooQO+vYLJHQEBhXVDrvh35E//5YtUJzrM5GAcMjJFVD8jjA+KcEb4KURj1IawXycbSrCoY1bF6cuJlpC0Vixoh2UVtaNEhdoadm4ApSfQdGmz8YfKDyivmCI4rwQnJsKVHA9yyB8Wk9+kuJSK3Ez3U4TY1qSHrxIjOmr+Oqtd87MmzNzt7GLDH+jBFHFeoXHuJR7EB4i7JTxycE9YUTVEJhyQcVI7XWgWwA5kSMrdwHpqA6UaEg/mh1NM8qnvlea3mP818n9M9cFExpWXw2LttiXQV1ZsjivhIKN7asoY/YCNqjTEzF39XMqyZanOAfGqBz83P352AjP7tQ/4yjbLv606wU98eiJT8cz+hNr++mpR089ejaDb+7KK/DMg2cePPHhYfrX8NHO7BBbbwse+FcHP5zBYtsH1f4/BuEb);whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;comic=0;perimeterSpacing=5;perimeter=rectanglePerimeter;align=center;verticalAlign=middle;spacingTop=7;labelBackgroundColor=none;labelBorderColor=none;spacing=0;spacingLeft=22;spacingRight=7;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;spacingBottom=7;rotatable=0;resizable=0;metaEdit=1;" vertex="1" parent="1">
+        <mxGeometry width="160" height="120" as="geometry"/>
+      </mxCell>
+    </object>
+  </root>
+</mxGraphModel>

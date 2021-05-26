@@ -1,0 +1,16 @@
+<shape h="120" w="160" aspect="fixed" strokewidth="inherit">
+  <connections>
+  </connections>
+  <background>
+    <roundrect x="10" y="10" w="150" h="110" arcsize="16" />
+  </background>
+  <foreground>
+    <fillstroke />
+    <roundrect x="10" y="10" w="150" h="110" arcsize="16" />
+    <fillstroke />
+    <roundrect x="5" y="5" w="150" h="110" arcsize="13" />
+    <fillstroke />
+    <roundrect x="0" y="0" w="150" h="110" arcsize="10" />
+    <fillstroke />
+  </foreground>
+</shape>

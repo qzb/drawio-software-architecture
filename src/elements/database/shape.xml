@@ -1,0 +1,26 @@
+<shape h="120" w="160" aspect="fixed" strokewidth="inherit">
+  <%- include('../../common/connections.xml') %>
+  <background>
+    <path>
+      <move x="0" y="10" />
+      <arc x="160" y="10" rx="1.0" ry="0.12" large-arc-flag="0" sweep-flag="1" x-axis-rotation="0" />
+      <line x="160" y="110" />
+      <arc x="0" y="110" rx="1.0" ry="0.12" large-arc-flag="0" sweep-flag="1" x-axis-rotation="0" />
+      <close />
+    </path>
+  </background>
+  <foreground>
+    <fillstroke />
+    <strokewidth width="4" />
+    <ellipse x="1" y="2" h="16" w="158" />
+    <stroke />
+    <ellipse x="4" y="4" h="12" w="154" />
+    <stroke />
+    <ellipse x="6" y="6" h="8" w="150" />
+    <stroke />
+    <ellipse x="8" y="8" h="4" w="146" />
+    <stroke />
+    <ellipse x="10" y="10" h="2" w="144" />
+    <stroke />
+  </foreground>
+</shape>

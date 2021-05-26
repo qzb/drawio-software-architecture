@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "devDependencies": {
+    "ejs": "^3.1.6",
+    "pako": "^2.0.3"
+  }
+}

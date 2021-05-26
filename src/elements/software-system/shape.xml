@@ -1,0 +1,9 @@
+<shape h="120" w="160" aspect="fixed" strokewidth="inherit">
+  <%- include('../../common/connections.xml') %>
+  <background>
+    <roundrect x="0" y="0" w="160" h="120" arcsize="10" />
+  </background>
+  <foreground>
+    <fillstroke />
+  </foreground>
+</shape>
